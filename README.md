@@ -1,6 +1,6 @@
 # 🛡️ Home Network Security Audit Tool (HSNAT)
 
-A powerful Python-based tool for scanning and auditing devices on your home or small office network. It detects open ports, enumerates services, checks for known vulnerabilities (CVEs), and highlights weak credentials — all through a GUI built with CustomTkinter.
+A Python tool for scanning and auditing devices on your home or small office network. It detects open ports, enumerates services, checks for known vulnerabilities (CVEs), and highlights weak credentials — all through a GUI built with CustomTkinter.
 
 ---
 
@@ -14,7 +14,6 @@ A powerful Python-based tool for scanning and auditing devices on your home or s
   - CVSS severity and score
   - Suggested remediation
 - 🔑 **Weak Credential Scanning**: Attempts default/common credentials using `Hydra`.
-- 🧠 **Delta Comparison**: Highlights new ports, services, or CVEs since your last scan.
 - 🌍 **Geolocation**: Displays estimated location and ISP info using external IP data.
 - 🗺️ **Network Map Visualization**: Interactive map of devices and their topology.
 - 🧾 **Reports**: Generates HTML and JSON reports for auditing and tracking.
