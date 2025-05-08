@@ -33,6 +33,13 @@ Powered by `CustomTkinter`, the GUI offers:
 
 ---
 
+## 📦 Download
+
+[⬇️ Download the latest version](
+https://github.com/charlesproctor/HNSAT/releases/latest)
+
+---
+
 ## 🛠️ Requirements
 
 - Python 3.8+
