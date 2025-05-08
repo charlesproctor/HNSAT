@@ -4,7 +4,7 @@ A powerful Python-based tool for scanning and auditing devices on your home or s
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🔍 **Network & Port Scanning**: Uses `nmap` to discover live hosts and open ports.
 - 📡 **Service Detection**: Identifies running services and software versions.
