@@ -9,10 +9,10 @@ A Python tool for scanning and auditing devices on your home or small office net
 -  **Network & Port Scanning**: Uses `nmap` to discover live hosts and open ports.
 -  **Service Detection**: Identifies running services and software versions.
 -  **CVE Lookup**: Fetches known vulnerabilities from the [NVD API](https://nvd.nist.gov/developers/vulnerabilities), with:
-  - CVE ID
-  - Description
-  - CVSS severity and score
-  - Suggested remediation
+    - CVE ID
+    - Description
+    - CVSS severity and score
+    - Suggested remediation
 -  **Weak Credential Scanning**: Attempts default/common credentials using `Hydra`.
 -  **Geolocation**: Displays estimated location and ISP info using external IP data.
 -  **Network Map Visualization**: Interactive map of devices and their topology.
