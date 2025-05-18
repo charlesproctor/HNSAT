@@ -44,7 +44,7 @@ https://github.com/charlesproctor/HNSAT/releases/latest)
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 HNSAT depends on several external tools in addition to Python packages. Installation steps vary by operating system.
 
