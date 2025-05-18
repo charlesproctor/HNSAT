@@ -85,7 +85,29 @@ sudo apt install python3 python3-pip
    **Python Dependencies**
 ```
 pip install -r requirements.txt
- ```
+```
+
+### API Key Setup
+
+To use HNSAT, you need an NVD API key for accessing CVE vulnerability data. This key must be stored in a .env file in the root of the hnsat folder.
+
+📌 Steps:
+
+Get your API key:
+
+ Visit the [NVD API Key Registration page](https://nvd.nist.gov/developers/request-an-api-key)
+
+ Request a key and copy it from your email or the confirmation screen.
+
+ Create a .env file:
+
+ In your terminal, navigate to the hnsat folder and run:
+    
+    nano .env
+    
+Then add this line (replacing the value with your actual key):
+
+    NVD_API_KEY=your_actual_key_here
 
 ### Installation
 
