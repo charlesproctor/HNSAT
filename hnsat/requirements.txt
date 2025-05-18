@@ -1,9 +1,0 @@
-python-nmap==0.7.1
-openvas==21.4.0
-requests==2.28.2
-pyyaml==6.0
-geopy==2.2.0
-ipwhois==0.12.3
-beautifulsoup4==4.11.1
-lxml==4.9.1
-jinja2==3.1.2
