@@ -61,7 +61,7 @@ HNSAT depends on several external tools in addition to Python packages. Installa
 
 Install dependencies:
 ```
-pip install -r requirements.txt
+pip install -r windowsCMD-requirements.txt
 ```
 
 ### Linux (Debian/Ubuntu-based)
@@ -84,7 +84,7 @@ sudo apt install python3 python3-pip
 
    **Python Dependencies**
 ```
-pip install -r requirements.txt
+pip install -r linux-requirements.txt
 ```
 
 ### API Key Setup
