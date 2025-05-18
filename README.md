@@ -23,6 +23,8 @@ A Python tool for scanning and auditing devices on your home or small office net
 
 ## 🖥️ GUI Snapshot
 
+https://github.com/charlesproctor/HNSAT/blob/main/GUI%20Preview.md
+
 Powered by `CustomTkinter`, the GUI offers:
 
 - IP/Subnet scan entry
