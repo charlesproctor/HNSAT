@@ -21,7 +21,7 @@ A Python tool for scanning and auditing devices on your home or small office net
 
 ---
 
-## 🖥️ GUI Snapshot
+## GUI Snapshot
 
 https://github.com/charlesproctor/HNSAT/blob/main/GUI%20Preview.md
 
@@ -36,7 +36,7 @@ Powered by `CustomTkinter`, the GUI offers:
 ---
 
 
-## 📦 Download
+## Download
 
 ⬇️ Download the latest version(
 https://github.com/charlesproctor/HNSAT/releases/latest)
@@ -91,7 +91,7 @@ pip install -r linux-requirements.txt
 
 To use HNSAT, you need an NVD API key for accessing CVE vulnerability data. This key must be stored in a .env file in the root of the hnsat folder.
 
-📌 Steps:
+Steps:
 
 Get your API key:
 
