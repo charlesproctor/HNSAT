@@ -46,18 +46,43 @@ https://github.com/charlesproctor/HNSAT/releases/latest)
 
 ## 🛠️ Requirements
 
-- Python 3.8+
-- `nmap` installed and available in PATH
-- External tools: `Hydra`, `ftp`, `smbclient`, `snmpwalk`
-- Python libraries:
-  - `customtkinter`
-  - `requests`
-  - `aiohttp`
-  - `jinja2`
-  - `scapy`
-  - `matplotlib`
-  - `networkx`
+HNSAT depends on several external tools in addition to Python packages. Installation steps vary by operating system.
+
+###  Windows
+
+   **[Nmap for Windows](https://nmap.org/download.html#windows)**
+   - Download the Windows installer from the Nmap website.
+   - Make sure to check **"Add Nmap to PATH"** during installation or manually add the install directory (e.g., `C:\Program Files (x86)\Nmap`) to your system PATH.
+
+   **Python 3.10+**
+   - Download from [python.org](https://www.python.org/downloads/windows/)
+   - Ensure `Add Python to PATH` is checked during installation.
+
 
 Install dependencies:
-```bash
+```
 pip install -r requirements.txt
+```
+
+### Linux (Debian/Ubuntu-based)
+
+   **Nmap**
+ ```
+sudo apt update
+sudo apt install nmap
+ ```
+
+   **Hyrdra**
+```
+sudo apt install hydra
+ ```
+
+   **Python 3.10+ and pip**
+```
+sudo apt install python3 python3-pip
+ ```
+
+   **Python Dependencies**
+```
+pip install -r requirements.txt
+ ```
