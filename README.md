@@ -86,3 +86,14 @@ sudo apt install python3 python3-pip
 ```
 pip install -r requirements.txt
  ```
+
+### Installation
+
+   **Clone the repository**
+   ```
+   git clone https://github.com/charlesproctor/HNSAT.git
+   cd HNSAT
+ ```
+ 
+    python hnsat.py
+ 
