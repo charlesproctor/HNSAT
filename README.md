@@ -1,4 +1,4 @@
-# 🛡️ Home Network Security Audit Tool (HNSAT)
+# Home Network Security Audit Tool (HNSAT)
 
 A Python tool for scanning and auditing devices on your home or small office network. It detects open ports, enumerates services, checks for known vulnerabilities (CVEs), and highlights weak credentials — all through a GUI built with CustomTkinter.
 
@@ -38,7 +38,7 @@ Powered by `CustomTkinter`, the GUI offers:
 
 ## Download
 
-⬇️ Download the latest version(
+Download the latest version(
 https://github.com/charlesproctor/HNSAT/releases/latest)
 
 
